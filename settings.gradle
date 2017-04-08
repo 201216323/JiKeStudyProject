@@ -1,1 +1,1 @@
-include ':app', ':testlitepal'
+include ':app', ':testlitepal', ':SmallVideoApp', ':SmallVideoLib'
