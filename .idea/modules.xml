@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/JiKeStudyProject.iml" filepath="$PROJECT_DIR$/JiKeStudyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmallVideoApp/SmallVideoApp.iml" filepath="$PROJECT_DIR$/SmallVideoApp/SmallVideoApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmallVideoLib/SmallVideoLib.iml" filepath="$PROJECT_DIR$/SmallVideoLib/SmallVideoLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLitaPal/TestLitaPal.iml" filepath="$PROJECT_DIR$/TestLitaPal/TestLitaPal.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testlitepal/testlitepal.iml" filepath="$PROJECT_DIR$/testlitepal/testlitepal.iml" />
     </modules>
   </component>
 </project>
