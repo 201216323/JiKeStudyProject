@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.beiing.roundimage.MainActivity">
+
+    <com.beiing.roundimage.CircleImageView
+        android:id="@+id/circle_image_glide"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/head"
+        app:riv_borderWidth="2dp"
+        app:riv_borderColor="#8c9eff"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <com.beiing.roundimage.RoundImageView
+                android:id="@+id/round_image_xutils"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@mipmap/test"
+                app:riv_borderWidth="2dp"
+                app:riv_borderColor="#8c9eff"
+                app:riv_rightTopRadius="30dp"
+                app:riv_leftBottomRadius="30dp"
+                />
+
+            <com.beiing.roundimage.RoundImageView
+                android:id="@+id/round_image_picasso"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/test"
+                app:riv_borderWidth="2dp"
+                app:riv_borderColor="#8c9eff"
+                app:riv_leftTopRadius="30dp"
+                app:riv_rightBottomRadius="30dp"
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+            <com.beiing.roundimage.RoundImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/head"
+                app:riv_borderWidth="2dp"
+                app:riv_borderColor="#8c9eff"
+                app:riv_leftTopRadius="30dp"
+                app:riv_rightBottomRadius="30dp"
+                />
+
+            <com.beiing.roundimage.RoundImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/head"
+                app:riv_borderWidth="2dp"
+                app:riv_borderColor="#8c9eff"
+                app:riv_rightTopRadius="30dp"
+                app:riv_leftBottomRadius="30dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    
+</LinearLayout>
