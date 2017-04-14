@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataBindingSampleApp/DataBindingSampleApp.iml" filepath="$PROJECT_DIR$/DataBindingSampleApp/DataBindingSampleApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlycoDialog_Lib/FlycoDialog_Lib.iml" filepath="$PROJECT_DIR$/FlycoDialog_Lib/FlycoDialog_Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlycoDialog_app/FlycoDialog_app.iml" filepath="$PROJECT_DIR$/FlycoDialog_app/FlycoDialog_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/JiKeStudyProject.iml" filepath="$PROJECT_DIR$/JiKeStudyProject.iml" />

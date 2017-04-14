@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DataBindingSampleApp" />
             <option value="$PROJECT_DIR$/FlycoDialog_Lib" />
             <option value="$PROJECT_DIR$/FlycoDialog_app" />
             <option value="$PROJECT_DIR$/SmallVideoApp" />
