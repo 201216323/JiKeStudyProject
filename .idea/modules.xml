@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlycoDialog_Lib/FlycoDialog_Lib.iml" filepath="$PROJECT_DIR$/FlycoDialog_Lib/FlycoDialog_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlycoDialog_app/FlycoDialog_app.iml" filepath="$PROJECT_DIR$/FlycoDialog_app/FlycoDialog_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/JiKeStudyProject.iml" filepath="$PROJECT_DIR$/JiKeStudyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmallVideoApp/SmallVideoApp.iml" filepath="$PROJECT_DIR$/SmallVideoApp/SmallVideoApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmallVideoLib/SmallVideoLib.iml" filepath="$PROJECT_DIR$/SmallVideoLib/SmallVideoLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestLitaPal/TestLitaPal.iml" filepath="$PROJECT_DIR$/TestLitaPal/TestLitaPal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilCodeApp/utilcodeapp.iml" filepath="$PROJECT_DIR$/UtilCodeApp/utilcodeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UtilCodeLib/UtilCodeLib.iml" filepath="$PROJECT_DIR$/UtilCodeLib/UtilCodeLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolsfinal/toolsfinal.iml" filepath="$PROJECT_DIR$/toolsfinal/toolsfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolsfinalapp/toolsfinalapp.iml" filepath="$PROJECT_DIR$/toolsfinalapp/toolsfinalapp.iml" />
     </modules>
   </component>
 </project>
