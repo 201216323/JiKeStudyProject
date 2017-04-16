@@ -1,0 +1,45 @@
+apply plugin: 'com.android.library'
+//apply plugin: 'com.novoda.bintray-release'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+//    lintOptions {
+//        abortOnError false
+//    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'junit:junit:4.12'
+}
+
+//添加
+//publish {
+//    userOrg = 'raphets'//bintray.com用户名
+//    groupId = 'org.raphets'//jcenter上的路径
+//    artifactId = 'roundimageview'//项目名称
+//    publishVersion = '1.2.0'//版本号
+//    desc = 'An ImageView that supports circle,oval,round.'//描述，不重要
+//    website = 'https://github.com/RaphetS/RoundImageView'//网站，不重要；尽量模拟github上的地址，例如我这样的；当然你有地址最好了
+//}

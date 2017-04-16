@@ -1,1 +1,1 @@
-include ':app', ':TestLitaPal', ':SmallVideoApp', ':SmallVideoLib', ':UtilCodeLib', ':UtilCodeApp', ':toolsfinalapp', ':toolsfinal', ':FlycoDialog_app', ':FlycoDialog_Lib', ':DataBindingSampleApp', ':RxJavapp', ':roundimageviewapp', ':roundimageview'
+include ':app', ':TestLitaPalApp', ':SmallVideoApp', ':SmallVideoLib', ':UtilCodeLib', ':UtilCodeApp', ':toolsfinalapp', ':toolsfinal', ':FlycoDialog_app', ':FlycoDialog_Lib', ':DataBindingSampleApp', ':RxJavapp', ':roundimageviewapp', ':roundimageview', ':roundimageviewapp2', ':roundimageview2'
