@@ -36,12 +36,12 @@
         "source": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\record_delete_normal.png"
     },
     {
-        "merged": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\record_delete_check_press.png",
-        "source": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\record_delete_check_press.png"
-    },
-    {
         "merged": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\record_camera_flash_led_on_normal.png",
         "source": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\record_camera_flash_led_on_normal.png"
+    },
+    {
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\record_delete_check_press.png",
+        "source": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\record_delete_check_press.png"
     },
     {
         "merged": "E:\\GithubDownload\\JiKeStudyProject\\SmallVideoLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\record_cancel_normal.png",
