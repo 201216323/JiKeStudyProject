@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\menu\\album_menu_album.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\menu\\album_menu_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\menu\\album_menu_preview.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\menu\\album_menu_preview.xml"
+    }
+]
