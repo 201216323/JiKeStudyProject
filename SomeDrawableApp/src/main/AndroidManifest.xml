@@ -22,6 +22,10 @@
         </activity>
         <activity android:name=".RotateAc">
         </activity>
+        <activity android:name=".ScaleAct">
+        </activity>
+        <activity android:name=".BitmapAct">
+        </activity>
     </application>
 
 </manifest>
