@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\Desktop\Album-master\albumlib\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Administrator\Desktop\Album-master\albumlib\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\GithubDownload\JiKeStudyProject\albumlib\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\GithubDownload\JiKeStudyProject\albumlib\src\debug\shaders"/></dataSet></merger>

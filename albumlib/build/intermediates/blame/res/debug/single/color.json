@@ -1,90 +1,90 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80e4ea9628d39a9fbcc764e0178099ba49fd8c85\\output\\res\\color\\design_error.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\80e4ea9628d39a9fbcc764e0178099ba49fd8c85\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6c470d4a4bdfab481d6e2c7ca472a4cdcf46706e\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6c470d4a4bdfab481d6e2c7ca472a4cdcf46706e\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\color\\abc_tint_edittext.xml"
     }
 ]

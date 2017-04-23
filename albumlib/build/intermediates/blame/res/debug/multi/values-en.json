@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "outputFile": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 965,
+                        "startOffset": 989,
                         "endColumn": 53,
-                        "endOffset": 1014
+                        "endOffset": 1038
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 153
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1355,
+                        "startOffset": 1384,
                         "endColumn": 48,
-                        "endOffset": 1399
+                        "endOffset": 1428
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 235
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1019,
+                        "startOffset": 1044,
                         "endColumn": 81,
-                        "endOffset": 1096
+                        "endOffset": 1121
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 361
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1101,
+                        "startOffset": 1127,
                         "endColumn": 125,
-                        "endOffset": 1222
+                        "endOffset": 1248
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1227,
+                        "startOffset": 1254,
                         "endColumn": 74,
-                        "endOffset": 1297
+                        "endOffset": 1324
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 513
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1405,
+                        "startOffset": 1436,
                         "endColumn": 76,
-                        "endOffset": 1477
+                        "endOffset": 1508
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 562
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1779,
+                        "startOffset": 1813,
                         "endColumn": 48,
-                        "endOffset": 1823
+                        "endOffset": 1857
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 615
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 655,
+                        "startOffset": 672,
                         "endColumn": 52,
-                        "endOffset": 703
+                        "endOffset": 720
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 668
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1302,
+                        "startOffset": 1330,
                         "endColumn": 52,
-                        "endOffset": 1350
+                        "endOffset": 1378
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 745
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 781,
+                        "startOffset": 801,
                         "endColumn": 76,
-                        "endOffset": 853
+                        "endOffset": 873
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 888
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1636,
+                        "startOffset": 1669,
                         "endColumn": 142,
-                        "endOffset": 1774
+                        "endOffset": 1807
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1042
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1482,
+                        "startOffset": 1514,
                         "endColumn": 153,
-                        "endOffset": 1631
+                        "endOffset": 1663
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1102
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 858,
+                        "startOffset": 879,
                         "endColumn": 59,
-                        "endOffset": 913
+                        "endOffset": 934
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 1148
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 919,
+                        "startOffset": 942,
                         "endColumn": 45,
-                        "endOffset": 960
+                        "endOffset": 983
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1220
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\src\\main\\res\\values-en\\strings.xml",
+                    "file": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\src\\main\\res\\values-en\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 709,
+                        "startOffset": 728,
                         "endColumn": 71,
-                        "endOffset": 776
+                        "endOffset": 795
                     }
                 }
             }

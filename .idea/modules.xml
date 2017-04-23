@@ -16,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/albumapp/albumapp.iml" filepath="$PROJECT_DIR$/albumapp/albumapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/albumlib/albumlib.iml" filepath="$PROJECT_DIR$/albumlib/albumlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moretextlayout/moretextlayout.iml" filepath="$PROJECT_DIR$/moretextlayout/moretextlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moretextlayoutapp/moretextlayoutapp.iml" filepath="$PROJECT_DIR$/moretextlayoutapp/moretextlayoutapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/roundimageview/roundimageview.iml" filepath="$PROJECT_DIR$/roundimageview/roundimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/roundimageview2/roundimageview2.iml" filepath="$PROJECT_DIR$/roundimageview2/roundimageview2.iml" />
       <module fileurl="file://$PROJECT_DIR$/roundimageviewapp/roundimageviewapp.iml" filepath="$PROJECT_DIR$/roundimageviewapp/roundimageviewapp.iml" />

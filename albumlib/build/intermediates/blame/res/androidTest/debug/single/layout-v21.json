@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\album_item_content_image.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\bundles\\debug\\res\\layout-v21\\album_item_content_image.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\album_item_content_button.xml",
-        "source": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\bundles\\debug\\res\\layout-v21\\album_item_content_button.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\album_item_content_button.xml",
+        "source": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\bundles\\debug\\res\\layout-v21\\album_item_content_button.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\e92ceb685371cb54837719f5f83a3470ec3c73c0\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Desktop\\Album-master\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38d8707e8ab2c1cddfc3f4862164253120aea0e6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\album_item_content_image.xml",
+        "source": "E:\\GithubDownload\\JiKeStudyProject\\albumlib\\build\\intermediates\\bundles\\debug\\res\\layout-v21\\album_item_content_image.xml"
     }
 ]
