@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+
+    <me.imli.lib_moretextlayout.MoreTextLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:mtlExpandLines="3"
+        app:mtlTextExpand="全部"
+        app:mtlTextShrink="收缩">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="4dp"
+            android:text="中，又看见那肥胖的，青布棉袍，黑布马褂的背影。唉！我不知中，又看见那肥胖的，青布棉袍，黑布马褂的背影。唉！我不知中，又看见那肥胖的，青布棉袍，黑布马褂的背影。唉！我不知何时再能与他相见！;" />
+    </me.imli.lib_moretextlayout.MoreTextLayout>
+
+
+</ScrollView>
