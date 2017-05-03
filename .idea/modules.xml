@@ -24,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/roundimageviewapp2/roundimageviewapp2.iml" filepath="$PROJECT_DIR$/roundimageviewapp2/roundimageviewapp2.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolsfinal/toolsfinal.iml" filepath="$PROJECT_DIR$/toolsfinal/toolsfinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolsfinalapp/toolsfinalapp.iml" filepath="$PROJECT_DIR$/toolsfinalapp/toolsfinalapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibopopupwindow/weibopopupwindow.iml" filepath="$PROJECT_DIR$/weibopopupwindow/weibopopupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibopopupwindow2/weibopopupwindow2.iml" filepath="$PROJECT_DIR$/weibopopupwindow2/weibopopupwindow2.iml" />
     </modules>
   </component>
 </project>
